@@ -24,18 +24,27 @@ Develop a user-friendly Project Management application using React that allows u
 ### Intsallation Steps:
 
 This command will install all the necessary dependencies.
+
 `npm install`
 
 This command will start the devlopement server.
+
 `npm run dev`
 
 ### OutPut:
 
-This is the start page of the app
-![page showing the home page]()
+This is the start page of the app.
+
+![page showing the home page](https://github.com/Rexon-Pambujya/projectManagementApp/blob/main/images/Image1.png)
 
 When you click on Add project or create new project this page opens up where you fill details of the project.
-![Project details]()
+
+![Project details](https://github.com/Rexon-Pambujya/projectManagementApp/blob/main/images/Image2.png)
 
 After saving the project you can click on it on the side bar and view the project details and add respective tasks.
-![tasks page]()
+
+![tasks page](https://github.com/Rexon-Pambujya/projectManagementApp/blob/main/images/Image4.png)
+
+![clear tasks](https://github.com/Rexon-Pambujya/projectManagementApp/blob/main/images/Image2.png)
+
+Thank you for going through my project.
