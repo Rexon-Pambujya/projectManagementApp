@@ -6,18 +6,18 @@ Develop a user-friendly Project Management application using React that allows u
 
 ### Features:
 
-1. Project Creation:
+1. #### Project Creation:
 
 - Users can add new projects.
 - Each project has a unique title and description.
 - Projects are displayed in a list for easy navigation.
 
-2. Task Management:
+2. #### Task Management:
 
 - Within each project, users can add multiple tasks.
 - Each task has a description.
 
-3. Task Completion:
+3. #### Task Completion:
 
 - Completed tasks can be cleared from the list to maintain an organized workspace.
 
