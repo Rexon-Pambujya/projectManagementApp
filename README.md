@@ -28,3 +28,14 @@ This command will install all the necessary dependencies.
 
 This command will start the devlopement server.
 `npm run dev`
+
+### OutPut:
+
+This is the start page of the app
+![page showing the home page]()
+
+When you click on Add project or create new project this page opens up where you fill details of the project.
+![Project details]()
+
+After saving the project you can click on it on the side bar and view the project details and add respective tasks.
+![tasks page]()
